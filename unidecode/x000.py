@@ -90,15 +90,15 @@ data = (
 
 'A',    # 0xc5
 'AE',    # 0xc6
-'C',    # 0xc7
-'E',    # 0xc8
-'E',    # 0xc9
-'E',    # 0xca
-'E',    # 0xcb
+'ç',    # 0xc7
+'è',    # 0xc8
+'é',    # 0xc9
+'ê',    # 0xca
+'ë',    # 0xcb
 'I',    # 0xcc
 'I',    # 0xcd
 'I',    # 0xce
-'I',    # 0xcf
+'ï',    # 0xcf
 'D',    # 0xd0
 'N',    # 0xd1
 'O',    # 0xd2
@@ -107,7 +107,7 @@ data = (
 'O',    # 0xd5
 
 # Not "OE" - used in languages other than German
-'O',    # 0xd6
+'ö',    # 0xd6
 
 'x',    # 0xd7
 'O',    # 0xd8
@@ -116,7 +116,7 @@ data = (
 'U',    # 0xdb
 
 # Not "UE" - used in languages other than German
-'U',    # 0xdc
+'ü',    # 0xdc
 
 'Y',    # 0xdd
 'Th',    # 0xde
@@ -131,15 +131,15 @@ data = (
 
 'a',    # 0xe5
 'ae',    # 0xe6
-'c',    # 0xe7
-'e',    # 0xe8
-'e',    # 0xe9
-'e',    # 0xea
-'e',    # 0xeb
+'ç',    # 0xe7
+'è',    # 0xe8
+'é',    # 0xe9
+'ê',    # 0xea
+'ë',    # 0xeb
 'i',    # 0xec
 'i',    # 0xed
 'i',    # 0xee
-'i',    # 0xef
+'ï',    # 0xef
 'd',    # 0xf0
 'n',    # 0xf1
 'o',    # 0xf2
@@ -148,7 +148,7 @@ data = (
 'o',    # 0xf5
 
 # Not "oe" - used in languages other than German
-'o',    # 0xf6
+'ö',    # 0xf6
 
 '/',    # 0xf7
 'o',    # 0xf8
@@ -157,7 +157,7 @@ data = (
 'u',    # 0xfb
 
 # Not "ue" - used in languages other than German
-'u',    # 0xfc
+'ü',    # 0xfc
 
 'y',    # 0xfd
 'th',    # 0xfe
